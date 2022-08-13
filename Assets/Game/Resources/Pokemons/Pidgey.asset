@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023dab26e69bce440bad5fcf64d41812, type: 3}
+  m_Name: Pidgey
+  m_EditorClassIdentifier: 
+  name: Pidgey
+  description: "Pidgey is a Normal/Flying type Pok\xE9mon introduced in Generation
+    1. It is known as the Tiny Bird Pok\xE9mon."
+  frontSprite: {fileID: 21300000, guid: 8615d8ce8c9b0374eb568a9bab2af721, type: 3}
+  backSprite: {fileID: 21300000, guid: 22d08983b9ae175408874f1e58b17abf, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 40
+  attack: 45
+  defense: 40
+  spAttack: 35
+  spDefense: 35
+  speed: 56
+  expYield: 55
+  growthRate: 2
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 7cebf91c8417cc241a3841d42347ebe6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 20da2fb9d1d620b41b92208bc5a8b638, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 307c28f0783cd984fa64d77491eb5b8b, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: d2c576a1097183e45884d988f6549ece, type: 2}
+    level: 10

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023dab26e69bce440bad5fcf64d41812, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  name: Charmander
+  description: "Charmander is a Fire type Pok\xE9mon introduced in Generation 1.
+    It is known as the Lizard Pok\xE9mon."
+  frontSprite: {fileID: 21300000, guid: cd259d9d4f8ba2749a16d1cc64d46bec, type: 3}
+  backSprite: {fileID: 21300000, guid: ed8e1d9976a1fd94d961840d8f6e7764, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65
+  expYield: 66
+  growthRate: 2
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: f036d2be193b2d74f8d546936f33325e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 10c84fdc13b9a6b449a269a0dbdc259f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: dfd860b81042e82499985a8544c065fa, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: d281997c177550b4fb3c5af091cecfa8, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 8b548e7f89014404fa97a6b53149aab2, type: 2}
+    level: 13
