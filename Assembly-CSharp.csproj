@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\Pokemons\Pokemon.cs" />
      <Compile Include="Assets\Scripts\GamePlay\GlobalSettings.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleHud.cs" />
+     <Compile Include="Assets\Scripts\Inventory\UI\InventoryUI.cs" />
      <Compile Include="Assets\Scripts\SceneManagement\LocationPortal.cs" />
      <Compile Include="Assets\Scripts\GamePlay\IPlayerTrigger.cs" />
      <Compile Include="Assets\Scripts\Pokemons\MoveBase.cs" />
@@ -79,7 +80,10 @@
      <Compile Include="Assets\Scripts\Pokemons\Move.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleSystem.cs" />
      <Compile Include="Assets\Scripts\UI\MenuController.cs" />
-     <Compile Include="Assets\Scripts\UI\InventoryUI.cs" />
+     <Compile Include="Assets\Scripts\Inventory\ItemBase.cs" />
+     <Compile Include="Assets\Scripts\Inventory\RecoveryItem.cs" />
+     <Compile Include="Assets\Scripts\Inventory\Inventory.cs" />
+     <Compile Include="Assets\Scripts\Inventory\UI\ItemSlotUI.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

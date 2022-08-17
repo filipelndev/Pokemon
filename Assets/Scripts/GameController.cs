@@ -26,6 +26,11 @@ public class GameController : MonoBehaviour
     {
         Instance = this;
 
+        menuController = GetComponent<MenuController>();
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
         PokemonDB.Init();
         ConditionsDB.Init();
     }
@@ -33,7 +38,7 @@ public class GameController : MonoBehaviour
     private void Start()
     {
         partyScreen.Init();
-        menuController = GetComponent<MenuController>();
+        
         battleSystem.onBattleOver += EndBattle;
 
         DialogManager.Instance.OnShowDialog += () =>
@@ -63,7 +68,6 @@ public class GameController : MonoBehaviour
         {
             //Lista de pokemons do player
             partyScreen.gameObject.SetActive(true);
-            partyScreen.SetPartyData(playerController.GetComponent<PokemonParty>().Pokemons);
             state = GameState.PartyScreen;
         }
         else if (selectedItem == 1)
@@ -191,7 +195,7 @@ public class GameController : MonoBehaviour
                 inventoryUI.gameObject.SetActive(false);
                 state = GameState.FreeRoam;
             };
-            inventoryUI.HandleUpdate(onSelected, onBack);
+            inventoryUI.HandleUpdate(onBack);
         }
     
     }

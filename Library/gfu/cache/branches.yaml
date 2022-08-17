@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-08-13T15:45:01.269-03:00
-  initializedAtString: 2022-08-13T15:45:01.254-03:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2022-08-17T15:50:49.898-03:00
+  initializedAtString: 2022-08-17T15:50:49.816-03:00
+  localBranches:
+  - name: main
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/main
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/filipelndev/Pokemon.git
@@ -26,12 +30,27 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/filipelndev/Pokemon.git
+      trackingBranch: main
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - main
+    subKeyValues:
+    - Values:
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/filipelndev/Pokemon.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
