@@ -23,7 +23,7 @@ public class ConditionsDB : MonoBehaviour
                 StartMessage = "has been poisoned",
                 OnAfterTurn = (Pokemon pokemon) =>
                 {
-                    pokemon.UpdateHP(pokemon.MaxHp / 8);
+                    pokemon.DecreaseHP(pokemon.MaxHp / 8);
                     pokemon.StatusChange.Enqueue($"{pokemon.Base.Name} hurt itself due to poison");
                 }
             }
@@ -36,7 +36,7 @@ public class ConditionsDB : MonoBehaviour
                 StartMessage = "has been burned",
                 OnAfterTurn = (Pokemon pokemon) =>
                 {
-                    pokemon.UpdateHP(pokemon.MaxHp / 16);
+                    pokemon.DecreaseHP(pokemon.MaxHp / 16);
                     pokemon.StatusChange.Enqueue($"{pokemon.Base.Name} hurt itself due to burn");
                 }
             }
@@ -132,7 +132,7 @@ public class ConditionsDB : MonoBehaviour
                     {
                         // caso não consiga
                         //se bate na confusão
-                        pokemon.UpdateHP(pokemon.MaxHp / 8);
+                        pokemon.DecreaseHP(pokemon.MaxHp / 8);
                         pokemon.StatusChange.Enqueue($"It hurt itself due to confusion");
                         return false;
                     }

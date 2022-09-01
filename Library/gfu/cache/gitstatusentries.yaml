@@ -13,168 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-08-17T16:39:00.291-03:00
-  initializedAtString: 2022-08-17T14:53:01.859-03:00
+  lastUpdatedAtString: 2022-09-01T16:10:14.171-03:00
+  initializedAtString: 2022-09-01T15:11:57.199-03:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\Filipe\Pokemon\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Game\Prefabs\PartyScreen.prefab
+    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Prefabs\PartyScreen.prefab
+    projectPath: Assets\Game\Prefabs\PartyScreen.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Art\UI\arrow.png.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Art\UI\arrow.png.meta
-    projectPath: Assets\Art\UI\arrow.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Game\Main\Player.prefab
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Main\Player.prefab
-    projectPath: Assets\Game\Main\Player.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Game\Resources\Items.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items.meta
-    projectPath: Assets\Game\Resources\Items.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Antidote.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Antidote.asset
-    projectPath: Assets\Game\Resources\Items\Antidote.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Antidote.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Antidote.asset.meta
-    projectPath: Assets\Game\Resources\Items\Antidote.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Awakening.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Awakening.asset
-    projectPath: Assets\Game\Resources\Items\Awakening.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Awakening.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Awakening.asset.meta
-    projectPath: Assets\Game\Resources\Items\Awakening.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Ether.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Ether.asset
-    projectPath: Assets\Game\Resources\Items\Ether.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Ether.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Ether.asset.meta
-    projectPath: Assets\Game\Resources\Items\Ether.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxEther.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxEther.asset
-    projectPath: Assets\Game\Resources\Items\MaxEther.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxEther.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxEther.asset.meta
-    projectPath: Assets\Game\Resources\Items\MaxEther.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxPotion.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxPotion.asset
-    projectPath: Assets\Game\Resources\Items\MaxPotion.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxPotion.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxPotion.asset.meta
-    projectPath: Assets\Game\Resources\Items\MaxPotion.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxRevive.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxRevive.asset
-    projectPath: Assets\Game\Resources\Items\MaxRevive.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\MaxRevive.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\MaxRevive.asset.meta
-    projectPath: Assets\Game\Resources\Items\MaxRevive.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Potion.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Potion.asset
-    projectPath: Assets\Game\Resources\Items\Potion.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Potion.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Potion.asset.meta
-    projectPath: Assets\Game\Resources\Items\Potion.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Revive.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Revive.asset
-    projectPath: Assets\Game\Resources\Items\Revive.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Revive.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Revive.asset.meta
-    projectPath: Assets\Game\Resources\Items\Revive.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Super Potion.asset
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Super Potion.asset
-    projectPath: Assets\Game\Resources\Items\Super Potion.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\Resources\Items\Super Potion.asset.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Items\Super Potion.asset.meta
-    projectPath: Assets\Game\Resources\Items\Super Potion.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\UI\ItemSlotList.prefab
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\UI\ItemSlotList.prefab
-    projectPath: Assets\Game\UI\ItemSlotList.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\UI\ItemSlotList.prefab.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\UI\ItemSlotList.prefab.meta
-    projectPath: Assets\Game\UI\ItemSlotList.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\UI\ItemSlotUI.prefab
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\UI\ItemSlotUI.prefab
-    projectPath: Assets\Game\UI\ItemSlotUI.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\UI\ItemSlotUI.prefab.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\UI\ItemSlotUI.prefab.meta
-    projectPath: Assets\Game\UI\ItemSlotUI.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Game\UI\UI Canvas.prefab
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\UI\UI Canvas.prefab
-    projectPath: Assets\Game\UI\UI Canvas.prefab
+  - path: Assets\Game\Resources\Pokemons\Bulbasaur.asset
+    fullPath: C:\Users\Filipe\Pokemon\Assets\Game\Resources\Pokemons\Bulbasaur.asset
+    projectPath: Assets\Game\Resources\Pokemons\Bulbasaur.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -190,108 +40,60 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\Battle\PartyMemberUI.cs
+    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Battle\PartyMemberUI.cs
+    projectPath: Assets\Scripts\Battle\PartyMemberUI.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Battle\PartyScreen.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Battle\PartyScreen.cs
     projectPath: Assets\Scripts\Battle\PartyScreen.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\GameController.cs
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\GameController.cs
-    projectPath: Assets\Scripts\GameController.cs
+  - path: Assets\Scripts\Data\ConditionsDB.cs
+    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Data\ConditionsDB.cs
+    projectPath: Assets\Scripts\Data\ConditionsDB.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Inventory.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory.meta
-    projectPath: Assets\Scripts\Inventory.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scripts\Inventory\Inventory.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\Inventory.cs
     projectPath: Assets\Scripts\Inventory\Inventory.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\Inventory.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\Inventory.cs.meta
-    projectPath: Assets\Scripts\Inventory\Inventory.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Inventory\ItemBase.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\ItemBase.cs
     projectPath: Assets\Scripts\Inventory\ItemBase.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\ItemBase.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\ItemBase.cs.meta
-    projectPath: Assets\Scripts\Inventory\ItemBase.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Inventory\RecoveryItem.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\RecoveryItem.cs
     projectPath: Assets\Scripts\Inventory\RecoveryItem.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\RecoveryItem.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\RecoveryItem.cs.meta
-    projectPath: Assets\Scripts\Inventory\RecoveryItem.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\UI.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\UI.meta
-    projectPath: Assets\Scripts\Inventory\UI.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Inventory\UI\InventoryUI.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\UI\InventoryUI.cs
     projectPath: Assets\Scripts\Inventory\UI\InventoryUI.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\UI\InventoryUI.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\UI\InventoryUI.cs.meta
-    projectPath: Assets\Scripts\Inventory\UI\InventoryUI.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Pokemons\Pokemon.cs
+    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Pokemons\Pokemon.cs
+    projectPath: Assets\Scripts\Pokemons\Pokemon.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\UI\ItemSlotUI.cs
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\UI\ItemSlotUI.cs
-    projectPath: Assets\Scripts\Inventory\UI\ItemSlotUI.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Inventory\UI\ItemSlotUI.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Inventory\UI\ItemSlotUI.cs.meta
-    projectPath: Assets\Scripts\Inventory\UI\ItemSlotUI.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Pokemons\PokemonParty.cs
     fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\Pokemons\PokemonParty.cs
     projectPath: Assets\Scripts\Pokemons\PokemonParty.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\UI\InventoryUI.cs
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\UI\InventoryUI.cs
-    projectPath: Assets\Scripts\UI\InventoryUI.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\UI\InventoryUI.cs.meta
-    fullPath: C:\Users\Filipe\Pokemon\Assets\Scripts\UI\InventoryUI.cs.meta
-    projectPath: Assets\Scripts\UI\InventoryUI.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\Filipe\Pokemon\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -302,95 +104,59 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\04\04d57adf74de3d684a92b685898a1957
     projectPath: Library\Artifacts\04\04d57adf74de3d684a92b685898a1957
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\06\064dd2b2e0f047576e362ebc18568233
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\06\064dd2b2e0f047576e362ebc18568233
-    projectPath: Library\Artifacts\06\064dd2b2e0f047576e362ebc18568233
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\07\07008e69ca0a2f6c2f84936b58109771
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\07\07008e69ca0a2f6c2f84936b58109771
+    projectPath: Library\Artifacts\07\07008e69ca0a2f6c2f84936b58109771
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\06\06cfea55fc6b44a9af38aa8f539af777
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\06\06cfea55fc6b44a9af38aa8f539af777
-    projectPath: Library\Artifacts\06\06cfea55fc6b44a9af38aa8f539af777
+  - path: Library\Artifacts\09\0934775ee5715e2b51cb9b28f1b72e69
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\09\0934775ee5715e2b51cb9b28f1b72e69
+    projectPath: Library\Artifacts\09\0934775ee5715e2b51cb9b28f1b72e69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\0b\0b274f244d7683748c8e67607d298cc8
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\0b\0b274f244d7683748c8e67607d298cc8
     projectPath: Library\Artifacts\0b\0b274f244d7683748c8e67607d298cc8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\10\10761b629db9285cc9ba010b8f01cf07
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\10\10761b629db9285cc9ba010b8f01cf07
-    projectPath: Library\Artifacts\10\10761b629db9285cc9ba010b8f01cf07
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0c\0c8cd371f82a65d12296c37ce8878d6a
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\0c\0c8cd371f82a65d12296c37ce8878d6a
+    projectPath: Library\Artifacts\0c\0c8cd371f82a65d12296c37ce8878d6a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\10\108c5478db1e23a0c4a05fdd86a29a4d
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\10\108c5478db1e23a0c4a05fdd86a29a4d
-    projectPath: Library\Artifacts\10\108c5478db1e23a0c4a05fdd86a29a4d
+  - path: Library\Artifacts\0f\0f94c814557d0bc70ff14623c34cc84f
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\0f\0f94c814557d0bc70ff14623c34cc84f
+    projectPath: Library\Artifacts\0f\0f94c814557d0bc70ff14623c34cc84f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\11\113a4524fa98d56437650645c72780d4
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\11\113a4524fa98d56437650645c72780d4
-    projectPath: Library\Artifacts\11\113a4524fa98d56437650645c72780d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\12\128fe2a6703af3b47cd4965995fd6f61
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\12\128fe2a6703af3b47cd4965995fd6f61
-    projectPath: Library\Artifacts\12\128fe2a6703af3b47cd4965995fd6f61
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\15\15613f375a841d98f91876ce6e9a9928
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\15\15613f375a841d98f91876ce6e9a9928
-    projectPath: Library\Artifacts\15\15613f375a841d98f91876ce6e9a9928
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\16\164f208bc59081d5b7f5c4ec5791947b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\16\164f208bc59081d5b7f5c4ec5791947b
-    projectPath: Library\Artifacts\16\164f208bc59081d5b7f5c4ec5791947b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\16\1650580813f032d0c96967694171298b
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\16\1650580813f032d0c96967694171298b
     projectPath: Library\Artifacts\16\1650580813f032d0c96967694171298b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\18\18a48ccb68c8a76b0f8758b90173c77b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\18\18a48ccb68c8a76b0f8758b90173c77b
-    projectPath: Library\Artifacts\18\18a48ccb68c8a76b0f8758b90173c77b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1d4fc2e43a43e74af9cdd6f74cd0eac5
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\1d\1d4fc2e43a43e74af9cdd6f74cd0eac5
-    projectPath: Library\Artifacts\1d\1d4fc2e43a43e74af9cdd6f74cd0eac5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\25\251195231b1b8ddd437c8efc46ac785e
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\25\251195231b1b8ddd437c8efc46ac785e
-    projectPath: Library\Artifacts\25\251195231b1b8ddd437c8efc46ac785e
+  - path: Library\Artifacts\1d\1d513753345651588691590decc5ae64
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\1d\1d513753345651588691590decc5ae64
+    projectPath: Library\Artifacts\1d\1d513753345651588691590decc5ae64
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\25\254eb39a4eb51082b38c90e10517e523
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\25\254eb39a4eb51082b38c90e10517e523
-    projectPath: Library\Artifacts\25\254eb39a4eb51082b38c90e10517e523
+  - path: Library\Artifacts\1d\1d71dbd9e3d2e8307c2f47930205b711
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\1d\1d71dbd9e3d2e8307c2f47930205b711
+    projectPath: Library\Artifacts\1d\1d71dbd9e3d2e8307c2f47930205b711
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\25c42bca0c79acf8124d6f91079ce437
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\25\25c42bca0c79acf8124d6f91079ce437
+    projectPath: Library\Artifacts\25\25c42bca0c79acf8124d6f91079ce437
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -398,41 +164,23 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\25\25d16b8d73aac20a7f11a7e1d726331c
     projectPath: Library\Artifacts\25\25d16b8d73aac20a7f11a7e1d726331c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\27\27d9fa99b178c2979bc3f1e78460b6cf
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\27\27d9fa99b178c2979bc3f1e78460b6cf
-    projectPath: Library\Artifacts\27\27d9fa99b178c2979bc3f1e78460b6cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2b\2b3015e26685840199adb7888d07392a
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2b\2b3015e26685840199adb7888d07392a
-    projectPath: Library\Artifacts\2b\2b3015e26685840199adb7888d07392a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2b\2b35e4a787f296403acbbfae9158cc9b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2b\2b35e4a787f296403acbbfae9158cc9b
-    projectPath: Library\Artifacts\2b\2b35e4a787f296403acbbfae9158cc9b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2c\2c1d3f82997706b40a26522c1b212c39
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2c\2c1d3f82997706b40a26522c1b212c39
     projectPath: Library\Artifacts\2c\2c1d3f82997706b40a26522c1b212c39
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\2d\2d147f40deed05fdfc402280cd536f2e
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2d\2d147f40deed05fdfc402280cd536f2e
     projectPath: Library\Artifacts\2d\2d147f40deed05fdfc402280cd536f2e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2e\2e0cbf2047e53c30a5812baa9951a29b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2e\2e0cbf2047e53c30a5812baa9951a29b
-    projectPath: Library\Artifacts\2e\2e0cbf2047e53c30a5812baa9951a29b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2d\2df4ae0b2886d77e4d7af03fc6102087
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\2d\2df4ae0b2886d77e4d7af03fc6102087
+    projectPath: Library\Artifacts\2d\2df4ae0b2886d77e4d7af03fc6102087
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -440,29 +188,11 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\30\303d8a0fc5c612c42906c33ec71de807
     projectPath: Library\Artifacts\30\303d8a0fc5c612c42906c33ec71de807
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\36\3620617ad8c243ba5fd71dc655bb5389
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\36\3620617ad8c243ba5fd71dc655bb5389
-    projectPath: Library\Artifacts\36\3620617ad8c243ba5fd71dc655bb5389
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\36\364f97c40e9ee2cd8ae599f8f995b949
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\36\364f97c40e9ee2cd8ae599f8f995b949
-    projectPath: Library\Artifacts\36\364f97c40e9ee2cd8ae599f8f995b949
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3a42a9b6e23bddb70ceb93982d76ff7b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3a\3a42a9b6e23bddb70ceb93982d76ff7b
-    projectPath: Library\Artifacts\3a\3a42a9b6e23bddb70ceb93982d76ff7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3a88ac51928ca9d8935bdb61d904ecfd
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3a\3a88ac51928ca9d8935bdb61d904ecfd
-    projectPath: Library\Artifacts\3a\3a88ac51928ca9d8935bdb61d904ecfd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\32\32db4932cd473701c4a05257931f71c2
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\32\32db4932cd473701c4a05257931f71c2
+    projectPath: Library\Artifacts\32\32db4932cd473701c4a05257931f71c2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -470,17 +200,11 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3a\3aa989db1e1eec5ee2c278f706eddd86
     projectPath: Library\Artifacts\3a\3aa989db1e1eec5ee2c278f706eddd86
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3ac1b275bd7d5de9bc08d99013b43a8b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3a\3ac1b275bd7d5de9bc08d99013b43a8b
-    projectPath: Library\Artifacts\3a\3ac1b275bd7d5de9bc08d99013b43a8b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3f\3f5991b8ffd6c158ee968f9b45422a58
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3f\3f5991b8ffd6c158ee968f9b45422a58
-    projectPath: Library\Artifacts\3f\3f5991b8ffd6c158ee968f9b45422a58
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3c\3cebd7439d51684f739544975f407d48
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\3c\3cebd7439d51684f739544975f407d48
+    projectPath: Library\Artifacts\3c\3cebd7439d51684f739544975f407d48
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -488,11 +212,11 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\41\410394841efd94aebcba84cb93cdcd80
     projectPath: Library\Artifacts\41\410394841efd94aebcba84cb93cdcd80
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\43\434c7f69c6c4a6b35b3e41c945f76e10
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\43\434c7f69c6c4a6b35b3e41c945f76e10
-    projectPath: Library\Artifacts\43\434c7f69c6c4a6b35b3e41c945f76e10
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\41\413736b0d96ed2d3d1f16518b39e044f
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\41\413736b0d96ed2d3d1f16518b39e044f
+    projectPath: Library\Artifacts\41\413736b0d96ed2d3d1f16518b39e044f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -500,89 +224,65 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\43\43e6e6173cf8c1ae58ceba3e570a2229
     projectPath: Library\Artifacts\43\43e6e6173cf8c1ae58ceba3e570a2229
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\45b7f77d6653394aaf170f5dd1af4b87
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\45\45b7f77d6653394aaf170f5dd1af4b87
-    projectPath: Library\Artifacts\45\45b7f77d6653394aaf170f5dd1af4b87
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\47\47261555a23e3b7c9da0bd62c48e080a
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\47\47261555a23e3b7c9da0bd62c48e080a
+    projectPath: Library\Artifacts\47\47261555a23e3b7c9da0bd62c48e080a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\46\4660fc21bf93a03b15913f8589dc1627
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\46\4660fc21bf93a03b15913f8589dc1627
-    projectPath: Library\Artifacts\46\4660fc21bf93a03b15913f8589dc1627
+  - path: Library\Artifacts\4f\4fdfb7d25e83596addcbd5ae8a83860d
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\4f\4fdfb7d25e83596addcbd5ae8a83860d
+    projectPath: Library\Artifacts\4f\4fdfb7d25e83596addcbd5ae8a83860d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\49\4963c4509f77a09c3f34cab876661759
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\49\4963c4509f77a09c3f34cab876661759
-    projectPath: Library\Artifacts\49\4963c4509f77a09c3f34cab876661759
+  - path: Library\Artifacts\52\524e36fefb40876d0381d7e6d9bf986b
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\52\524e36fefb40876d0381d7e6d9bf986b
+    projectPath: Library\Artifacts\52\524e36fefb40876d0381d7e6d9bf986b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4f\4ff5e1a9f5ecda6f1f8f59386bf69430
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\4f\4ff5e1a9f5ecda6f1f8f59386bf69430
-    projectPath: Library\Artifacts\4f\4ff5e1a9f5ecda6f1f8f59386bf69430
+  - path: Library\Artifacts\53\538e47ee1b6163a3eefa031e8d7010c7
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\53\538e47ee1b6163a3eefa031e8d7010c7
+    projectPath: Library\Artifacts\53\538e47ee1b6163a3eefa031e8d7010c7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\505d65f47f3dfd4430b070e5fd02a619
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\50\505d65f47f3dfd4430b070e5fd02a619
-    projectPath: Library\Artifacts\50\505d65f47f3dfd4430b070e5fd02a619
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\56\56563104b8a94fd872c87e169a42e4dd
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\56\56563104b8a94fd872c87e169a42e4dd
     projectPath: Library\Artifacts\56\56563104b8a94fd872c87e169a42e4dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\58\5816bfa5796c48f822bec5b0aa976a2c
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\58\5816bfa5796c48f822bec5b0aa976a2c
     projectPath: Library\Artifacts\58\5816bfa5796c48f822bec5b0aa976a2c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\5c\5cca18beca3d1cb955f961afad76ea41
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\5c\5cca18beca3d1cb955f961afad76ea41
     projectPath: Library\Artifacts\5c\5cca18beca3d1cb955f961afad76ea41
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5d\5dca30fd7c15a3720eb871c207068f04
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\5d\5dca30fd7c15a3720eb871c207068f04
-    projectPath: Library\Artifacts\5d\5dca30fd7c15a3720eb871c207068f04
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5f\5f2359b43ac22b57ca48b4ee65a51862
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\5f\5f2359b43ac22b57ca48b4ee65a51862
+    projectPath: Library\Artifacts\5f\5f2359b43ac22b57ca48b4ee65a51862
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\5e\5e4c91c8b735c8a862b0ba56fdb3615d
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\5e\5e4c91c8b735c8a862b0ba56fdb3615d
-    projectPath: Library\Artifacts\5e\5e4c91c8b735c8a862b0ba56fdb3615d
+  - path: Library\Artifacts\68\68608ebef3e55b064f82f5f709c3813d
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\68\68608ebef3e55b064f82f5f709c3813d
+    projectPath: Library\Artifacts\68\68608ebef3e55b064f82f5f709c3813d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\6094cd93b23bb007681bfcf8842f60a4
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\60\6094cd93b23bb007681bfcf8842f60a4
-    projectPath: Library\Artifacts\60\6094cd93b23bb007681bfcf8842f60a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\647da9596435b5260d9bf2bc5bd632ce
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\64\647da9596435b5260d9bf2bc5bd632ce
-    projectPath: Library\Artifacts\64\647da9596435b5260d9bf2bc5bd632ce
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\64e5b13e9aa0da0b727d8efcfc8100a6
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\64\64e5b13e9aa0da0b727d8efcfc8100a6
-    projectPath: Library\Artifacts\64\64e5b13e9aa0da0b727d8efcfc8100a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\679bb99913612381da0d838bccf32c25
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\67\679bb99913612381da0d838bccf32c25
-    projectPath: Library\Artifacts\67\679bb99913612381da0d838bccf32c25
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\68\68d09d05cf9cb20bf4c24ac12dd261f0
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\68\68d09d05cf9cb20bf4c24ac12dd261f0
+    projectPath: Library\Artifacts\68\68d09d05cf9cb20bf4c24ac12dd261f0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -590,107 +290,65 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\72\72e9bb4cf3e6d599cfd8af1360c7301b
     projectPath: Library\Artifacts\72\72e9bb4cf3e6d599cfd8af1360c7301b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\75c3afd3fb52eadcd58b8b93d367d1b8
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\75\75c3afd3fb52eadcd58b8b93d367d1b8
-    projectPath: Library\Artifacts\75\75c3afd3fb52eadcd58b8b93d367d1b8
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\74\749211fe321e2efe21b5b0e71407f18a
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\74\749211fe321e2efe21b5b0e71407f18a
+    projectPath: Library\Artifacts\74\749211fe321e2efe21b5b0e71407f18a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\76\76ccb1f8f03cd2e6ac199de8d53876e7
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\76\76ccb1f8f03cd2e6ac199de8d53876e7
+    projectPath: Library\Artifacts\76\76ccb1f8f03cd2e6ac199de8d53876e7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\77\77f0b5f8b492277d6414e86088299b57
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\77\77f0b5f8b492277d6414e86088299b57
-    projectPath: Library\Artifacts\77\77f0b5f8b492277d6414e86088299b57
+  - path: Library\Artifacts\79\7963985affd44580250177adbbcd939a
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\79\7963985affd44580250177adbbcd939a
+    projectPath: Library\Artifacts\79\7963985affd44580250177adbbcd939a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\7a\7a0a0a0e770715fceafdecaa6be7553c
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\7a\7a0a0a0e770715fceafdecaa6be7553c
     projectPath: Library\Artifacts\7a\7a0a0a0e770715fceafdecaa6be7553c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d2409fbca79f1f1171d6c52577e937a
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\7d\7d2409fbca79f1f1171d6c52577e937a
-    projectPath: Library\Artifacts\7d\7d2409fbca79f1f1171d6c52577e937a
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7f\7f127719f84df6310f060713bc1592d4
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\7f\7f127719f84df6310f060713bc1592d4
-    projectPath: Library\Artifacts\7f\7f127719f84df6310f060713bc1592d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\80\808348cafe3bfbbdc7c8a8d957ff853b
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\80\808348cafe3bfbbdc7c8a8d957ff853b
     projectPath: Library\Artifacts\80\808348cafe3bfbbdc7c8a8d957ff853b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\820db3751f4442cdfb78f6919589bf9e
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\82\820db3751f4442cdfb78f6919589bf9e
-    projectPath: Library\Artifacts\82\820db3751f4442cdfb78f6919589bf9e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\83\83647532f48462bd8f671e29cfcc576c
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\83\83647532f48462bd8f671e29cfcc576c
+    projectPath: Library\Artifacts\83\83647532f48462bd8f671e29cfcc576c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\82\821c1823f36e414db3673e9659eff6e5
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\82\821c1823f36e414db3673e9659eff6e5
-    projectPath: Library\Artifacts\82\821c1823f36e414db3673e9659eff6e5
+  - path: Library\Artifacts\88\8803939f505cce04377d66cf28762735
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\88\8803939f505cce04377d66cf28762735
+    projectPath: Library\Artifacts\88\8803939f505cce04377d66cf28762735
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\84\84e4e1b7a466d54ea41c74cb4793a315
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\84\84e4e1b7a466d54ea41c74cb4793a315
-    projectPath: Library\Artifacts\84\84e4e1b7a466d54ea41c74cb4793a315
+  - path: Library\Artifacts\8a\8a516738f24b2a1d3f7016790f684917
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\8a\8a516738f24b2a1d3f7016790f684917
+    projectPath: Library\Artifacts\8a\8a516738f24b2a1d3f7016790f684917
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\85\8540201a6d0f3a2e30acf35df4762cb1
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\85\8540201a6d0f3a2e30acf35df4762cb1
-    projectPath: Library\Artifacts\85\8540201a6d0f3a2e30acf35df4762cb1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\88235d7d16d00113f8d9e4cea105e810
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\88\88235d7d16d00113f8d9e4cea105e810
-    projectPath: Library\Artifacts\88\88235d7d16d00113f8d9e4cea105e810
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\88dfd415a8cc8cc999576c2ccf0e13ba
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\88\88dfd415a8cc8cc999576c2ccf0e13ba
-    projectPath: Library\Artifacts\88\88dfd415a8cc8cc999576c2ccf0e13ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8c1a7037094693bb8c975b3cb9bc8f7c
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\8c\8c1a7037094693bb8c975b3cb9bc8f7c
-    projectPath: Library\Artifacts\8c\8c1a7037094693bb8c975b3cb9bc8f7c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8c\8cc38ee4a27fd56b1c8d6812c395649a
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\8c\8cc38ee4a27fd56b1c8d6812c395649a
-    projectPath: Library\Artifacts\8c\8cc38ee4a27fd56b1c8d6812c395649a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\8d\8dda24165a430608d829fcc66b1c8f45
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\8d\8dda24165a430608d829fcc66b1c8f45
     projectPath: Library\Artifacts\8d\8dda24165a430608d829fcc66b1c8f45
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8ecca7c2f55e90470a783f5c272560b9
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\8e\8ecca7c2f55e90470a783f5c272560b9
-    projectPath: Library\Artifacts\8e\8ecca7c2f55e90470a783f5c272560b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\93\93e1fbe9ccc34c13d3848655ed1e9931
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\93\93e1fbe9ccc34c13d3848655ed1e9931
-    projectPath: Library\Artifacts\93\93e1fbe9ccc34c13d3848655ed1e9931
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\91\918e8302002fcd12bc6a3fde67f5baf8
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\91\918e8302002fcd12bc6a3fde67f5baf8
+    projectPath: Library\Artifacts\91\918e8302002fcd12bc6a3fde67f5baf8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -698,29 +356,23 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\94\947d51b7182b5ffec1c2e2e15e14961e
     projectPath: Library\Artifacts\94\947d51b7182b5ffec1c2e2e15e14961e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\95\952dcc200c31a2cf954879c9cd98871b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\95\952dcc200c31a2cf954879c9cd98871b
-    projectPath: Library\Artifacts\95\952dcc200c31a2cf954879c9cd98871b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\965192f44d1220d9d5744ed07d9ce854
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\96\965192f44d1220d9d5744ed07d9ce854
-    projectPath: Library\Artifacts\96\965192f44d1220d9d5744ed07d9ce854
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\97\9748f3eed1faebaf3ba16584de1cacf2
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\97\9748f3eed1faebaf3ba16584de1cacf2
-    projectPath: Library\Artifacts\97\9748f3eed1faebaf3ba16584de1cacf2
+  - path: Library\Artifacts\9a\9a980cb2b1434033da9cbb09e3769611
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9a\9a980cb2b1434033da9cbb09e3769611
+    projectPath: Library\Artifacts\9a\9a980cb2b1434033da9cbb09e3769611
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\97\97fd6fa428824219547fb5f39eb1e901
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\97\97fd6fa428824219547fb5f39eb1e901
-    projectPath: Library\Artifacts\97\97fd6fa428824219547fb5f39eb1e901
+  - path: Library\Artifacts\9b\9b646a84522ef637ff3413f53dfa91cf
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9b\9b646a84522ef637ff3413f53dfa91cf
+    projectPath: Library\Artifacts\9b\9b646a84522ef637ff3413f53dfa91cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c7fbae0b9507d6e187f30a33e4669c1
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9c\9c7fbae0b9507d6e187f30a33e4669c1
+    projectPath: Library\Artifacts\9c\9c7fbae0b9507d6e187f30a33e4669c1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -728,71 +380,47 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9c\9c9714c68db4312f1f4badf4efaab6aa
     projectPath: Library\Artifacts\9c\9c9714c68db4312f1f4badf4efaab6aa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\9e\9e26e3f71e265b10a83225fe8237c951
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9e\9e26e3f71e265b10a83225fe8237c951
     projectPath: Library\Artifacts\9e\9e26e3f71e265b10a83225fe8237c951
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9f\9f1ebc09638c54a32478a65dfc55c07d
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\9f\9f1ebc09638c54a32478a65dfc55c07d
-    projectPath: Library\Artifacts\9f\9f1ebc09638c54a32478a65dfc55c07d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\aa\aab0396c71785308f234dff879164b16
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\aa\aab0396c71785308f234dff879164b16
+    projectPath: Library\Artifacts\aa\aab0396c71785308f234dff879164b16
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\a0\a0809981e4c1e9289838d992789e7488
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\a0\a0809981e4c1e9289838d992789e7488
-    projectPath: Library\Artifacts\a0\a0809981e4c1e9289838d992789e7488
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1b15ad8337014d52424ea9a2d4a5e6c
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\a1\a1b15ad8337014d52424ea9a2d4a5e6c
-    projectPath: Library\Artifacts\a1\a1b15ad8337014d52424ea9a2d4a5e6c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\aa\aaa100ebf689e7321e0ecf940493c5e6
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\aa\aaa100ebf689e7321e0ecf940493c5e6
-    projectPath: Library\Artifacts\aa\aaa100ebf689e7321e0ecf940493c5e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ab\ab120dab57c830c35e4085fca7039354
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\ab\ab120dab57c830c35e4085fca7039354
-    projectPath: Library\Artifacts\ab\ab120dab57c830c35e4085fca7039354
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\af\af40fe683665b2ebb9de5f5ecea7c88e
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\af\af40fe683665b2ebb9de5f5ecea7c88e
-    projectPath: Library\Artifacts\af\af40fe683665b2ebb9de5f5ecea7c88e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\af\af803030c66fcba09679465d544865f2
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\af\af803030c66fcba09679465d544865f2
-    projectPath: Library\Artifacts\af\af803030c66fcba09679465d544865f2
+  - path: Library\Artifacts\ab\aba6ee978fc25fde0ab53cb5c374736b
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\ab\aba6ee978fc25fde0ab53cb5c374736b
+    projectPath: Library\Artifacts\ab\aba6ee978fc25fde0ab53cb5c374736b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Library\Artifacts\b1\b1b0196fcb47ad66ee9e95b6df31d5bc
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b1\b1b0196fcb47ad66ee9e95b6df31d5bc
+    projectPath: Library\Artifacts\b1\b1b0196fcb47ad66ee9e95b6df31d5bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2493af281327ec23927fbbdee665d3c
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b2\b2493af281327ec23927fbbdee665d3c
+    projectPath: Library\Artifacts\b2\b2493af281327ec23927fbbdee665d3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\b4\b41cdef2651a85160ba438977a97595a
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b4\b41cdef2651a85160ba438977a97595a
     projectPath: Library\Artifacts\b4\b41cdef2651a85160ba438977a97595a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b6\b67cb7e478531f39031f5545dc2d2f8f
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b6\b67cb7e478531f39031f5545dc2d2f8f
-    projectPath: Library\Artifacts\b6\b67cb7e478531f39031f5545dc2d2f8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b8\b8b909d3325535f806919e9177250b64
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b8\b8b909d3325535f806919e9177250b64
-    projectPath: Library\Artifacts\b8\b8b909d3325535f806919e9177250b64
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b6\b6a79d30d6551633494310eef9754927
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\b6\b6a79d30d6551633494310eef9754927
+    projectPath: Library\Artifacts\b6\b6a79d30d6551633494310eef9754927
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -800,23 +428,11 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bc\bc853caf72a674c79a3b1a705ee23ccd
     projectPath: Library\Artifacts\bc\bc853caf72a674c79a3b1a705ee23ccd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bd1274960a154ab06c560bbf94d2bbba
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bd\bd1274960a154ab06c560bbf94d2bbba
-    projectPath: Library\Artifacts\bd\bd1274960a154ab06c560bbf94d2bbba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\bd\bdfbc8284b19cb97c28d2905f50b321f
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bd\bdfbc8284b19cb97c28d2905f50b321f
-    projectPath: Library\Artifacts\bd\bdfbc8284b19cb97c28d2905f50b321f
+  - path: Library\Artifacts\bd\bd46e04a876a64f4759c8dbd8acf7b75
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bd\bd46e04a876a64f4759c8dbd8acf7b75
+    projectPath: Library\Artifacts\bd\bd46e04a876a64f4759c8dbd8acf7b75
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -824,17 +440,23 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\bf\bf99eff9ee390fd4611046a3a0a68ebc
     projectPath: Library\Artifacts\bf\bf99eff9ee390fd4611046a3a0a68ebc
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c3\c302c269a31c029ddf3969dde59502be
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c3\c302c269a31c029ddf3969dde59502be
+    projectPath: Library\Artifacts\c3\c302c269a31c029ddf3969dde59502be
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\c3\c3b903ddfec5dd4b40f1db1f790669bb
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c3\c3b903ddfec5dd4b40f1db1f790669bb
     projectPath: Library\Artifacts\c3\c3b903ddfec5dd4b40f1db1f790669bb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c5\c56db1f8a991c97ef7f4b59cfcdd4b74
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c5\c56db1f8a991c97ef7f4b59cfcdd4b74
-    projectPath: Library\Artifacts\c5\c56db1f8a991c97ef7f4b59cfcdd4b74
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c4\c4ae24fc241ba2a68b86a0581df17279
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c4\c4ae24fc241ba2a68b86a0581df17279
+    projectPath: Library\Artifacts\c4\c4ae24fc241ba2a68b86a0581df17279
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -842,35 +464,29 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c7\c707a25de811c1c8072435b74387854c
     projectPath: Library\Artifacts\c7\c707a25de811c1c8072435b74387854c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c7\c742545d6dc32902f9656c40118ce75d
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c7\c742545d6dc32902f9656c40118ce75d
-    projectPath: Library\Artifacts\c7\c742545d6dc32902f9656c40118ce75d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c8\c826237cf9f94fa906306d596dafc102
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c8\c826237cf9f94fa906306d596dafc102
-    projectPath: Library\Artifacts\c8\c826237cf9f94fa906306d596dafc102
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\c8\c833847658affa50810fa75eff37e125
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\c8\c833847658affa50810fa75eff37e125
     projectPath: Library\Artifacts\c8\c833847658affa50810fa75eff37e125
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cb\cb52b33dae247171e81b234466510c10
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\cb\cb52b33dae247171e81b234466510c10
     projectPath: Library\Artifacts\cb\cb52b33dae247171e81b234466510c10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\cc\ccf5898d1f7c928948e4e78071b240a2
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\cc\ccf5898d1f7c928948e4e78071b240a2
     projectPath: Library\Artifacts\cc\ccf5898d1f7c928948e4e78071b240a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cf\cf97168b16feb8ac4279b0d4ec424ba9
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\cf\cf97168b16feb8ac4279b0d4ec424ba9
+    projectPath: Library\Artifacts\cf\cf97168b16feb8ac4279b0d4ec424ba9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -878,35 +494,17 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d0\d04e7a333fe8b06858a8353c481b61a9
     projectPath: Library\Artifacts\d0\d04e7a333fe8b06858a8353c481b61a9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d0\d0e827b1da9df3acb49369b75f1938a3
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d0\d0e827b1da9df3acb49369b75f1938a3
-    projectPath: Library\Artifacts\d0\d0e827b1da9df3acb49369b75f1938a3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\d2\d24a98a18d31a47e30bfdf610b206839
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d2\d24a98a18d31a47e30bfdf610b206839
-    projectPath: Library\Artifacts\d2\d24a98a18d31a47e30bfdf610b206839
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d5\d57434267f3aa132349685653cde8424
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d5\d57434267f3aa132349685653cde8424
-    projectPath: Library\Artifacts\d5\d57434267f3aa132349685653cde8424
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\d8\d8893713c75e7d76fdf939bcdc07cb2a
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d8\d8893713c75e7d76fdf939bcdc07cb2a
     projectPath: Library\Artifacts\d8\d8893713c75e7d76fdf939bcdc07cb2a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d8\d88cc4b3525fa413ad88667222a52fdf
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d8\d88cc4b3525fa413ad88667222a52fdf
-    projectPath: Library\Artifacts\d8\d88cc4b3525fa413ad88667222a52fdf
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d964e613c00e920c6e61c4a64f3ffdec
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d9\d964e613c00e920c6e61c4a64f3ffdec
+    projectPath: Library\Artifacts\d9\d964e613c00e920c6e61c4a64f3ffdec
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -914,71 +512,29 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d9\d967280b9e9dd0a20711f828f6b6120f
     projectPath: Library\Artifacts\d9\d967280b9e9dd0a20711f828f6b6120f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d9\d9f80758e11b4a10d405bcc79a7ad52f
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\d9\d9f80758e11b4a10d405bcc79a7ad52f
-    projectPath: Library\Artifacts\d9\d9f80758e11b4a10d405bcc79a7ad52f
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library\Artifacts\da\da890a0d80eb6fc9f8600bcc2eef4775
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\da\da890a0d80eb6fc9f8600bcc2eef4775
     projectPath: Library\Artifacts\da\da890a0d80eb6fc9f8600bcc2eef4775
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\db\db8bf10a8a4060b8c0499aae201e05f7
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\db\db8bf10a8a4060b8c0499aae201e05f7
-    projectPath: Library\Artifacts\db\db8bf10a8a4060b8c0499aae201e05f7
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\df\dfd68fd74671be24c9635197ea10f33c
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\df\dfd68fd74671be24c9635197ea10f33c
-    projectPath: Library\Artifacts\df\dfd68fd74671be24c9635197ea10f33c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\df\dfdf1c6830f9f98b5202415f6a78cfbc
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\df\dfdf1c6830f9f98b5202415f6a78cfbc
-    projectPath: Library\Artifacts\df\dfdf1c6830f9f98b5202415f6a78cfbc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e08a9e0d4078c3d56b325fc7a8ec00d1
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e0\e08a9e0d4078c3d56b325fc7a8ec00d1
-    projectPath: Library\Artifacts\e0\e08a9e0d4078c3d56b325fc7a8ec00d1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0ace937d107f3a3992532f3027860c5
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e0\e0ace937d107f3a3992532f3027860c5
-    projectPath: Library\Artifacts\e0\e0ace937d107f3a3992532f3027860c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\e2\e2ed39cab32b6f3c50d4167575a434e0
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e2\e2ed39cab32b6f3c50d4167575a434e0
     projectPath: Library\Artifacts\e2\e2ed39cab32b6f3c50d4167575a434e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\e5\e5aa9f30c1761041163ba2c0e8c8ddcb
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e5\e5aa9f30c1761041163ba2c0e8c8ddcb
     projectPath: Library\Artifacts\e5\e5aa9f30c1761041163ba2c0e8c8ddcb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e6\e62c393346151717c4b02e087be7dd10
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e6\e62c393346151717c4b02e087be7dd10
-    projectPath: Library\Artifacts\e6\e62c393346151717c4b02e087be7dd10
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e7\e71831609420d3834fded21760b2235c
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e7\e71831609420d3834fded21760b2235c
-    projectPath: Library\Artifacts\e7\e71831609420d3834fded21760b2235c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e6\e6b2e888c1811a69c17a260b545be4ce
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e6\e6b2e888c1811a69c17a260b545be4ce
+    projectPath: Library\Artifacts\e6\e6b2e888c1811a69c17a260b545be4ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -986,53 +542,47 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e7\e7c03bc4be8d3e47cd3efde1fc3a2264
     projectPath: Library\Artifacts\e7\e7c03bc4be8d3e47cd3efde1fc3a2264
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e8\e8493086cc6049593ef285d8046f92c9
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\e8\e8493086cc6049593ef285d8046f92c9
-    projectPath: Library\Artifacts\e8\e8493086cc6049593ef285d8046f92c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ea\ea0b16cba8c0d59af12354dafb337021
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\ea\ea0b16cba8c0d59af12354dafb337021
     projectPath: Library\Artifacts\ea\ea0b16cba8c0d59af12354dafb337021
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\eb\ebbbf2bc82b17fccdc7f73073ccccbf4
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\eb\ebbbf2bc82b17fccdc7f73073ccccbf4
     projectPath: Library\Artifacts\eb\ebbbf2bc82b17fccdc7f73073ccccbf4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\ec\ecf25a22cf37fa9b55abe71d467fa4a4
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\ec\ecf25a22cf37fa9b55abe71d467fa4a4
     projectPath: Library\Artifacts\ec\ecf25a22cf37fa9b55abe71d467fa4a4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f1\f14516e443831fae2f92289046f9516f
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f1\f14516e443831fae2f92289046f9516f
-    projectPath: Library\Artifacts\f1\f14516e443831fae2f92289046f9516f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f1\f1aaf3b79403c8eeabcbb66c93c615bf
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f1\f1aaf3b79403c8eeabcbb66c93c615bf
     projectPath: Library\Artifacts\f1\f1aaf3b79403c8eeabcbb66c93c615bf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f3\f385598ee9455f5e2cacf77b2e7b4eb3
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f3\f385598ee9455f5e2cacf77b2e7b4eb3
-    projectPath: Library\Artifacts\f3\f385598ee9455f5e2cacf77b2e7b4eb3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f8\f8489b5f9d471fdd112b25da4f265c53
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f8\f8489b5f9d471fdd112b25da4f265c53
     projectPath: Library\Artifacts\f8\f8489b5f9d471fdd112b25da4f265c53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f8\f881ec1d53977c963318d274ae010a67
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f8\f881ec1d53977c963318d274ae010a67
+    projectPath: Library\Artifacts\f8\f881ec1d53977c963318d274ae010a67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f8\f88657096b0a25a3796c9df14f46951d
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f8\f88657096b0a25a3796c9df14f46951d
+    projectPath: Library\Artifacts\f8\f88657096b0a25a3796c9df14f46951d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1040,23 +590,29 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f8\f8b1f440809f7390993ed37972fedcdb
     projectPath: Library\Artifacts\f8\f8b1f440809f7390993ed37972fedcdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f9\f9db5792a7f361f09f53e454fd27cc2b
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\f9\f9db5792a7f361f09f53e454fd27cc2b
-    projectPath: Library\Artifacts\f9\f9db5792a7f361f09f53e454fd27cc2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\fb\fb0b132115c4a06034c6f24fe0a51961
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fb\fb0b132115c4a06034c6f24fe0a51961
     projectPath: Library\Artifacts\fb\fb0b132115c4a06034c6f24fe0a51961
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fb\fbd26d92d2428d67baf666ec372fd708
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fb\fbd26d92d2428d67baf666ec372fd708
+    projectPath: Library\Artifacts\fb\fbd26d92d2428d67baf666ec372fd708
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\fd\fd52a5d9eacb42be5f73303bf1328c94
-    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fd\fd52a5d9eacb42be5f73303bf1328c94
-    projectPath: Library\Artifacts\fd\fd52a5d9eacb42be5f73303bf1328c94
+  - path: Library\Artifacts\fc\fc2b0660e528e223dd4313702891f0bd
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fc\fc2b0660e528e223dd4313702891f0bd
+    projectPath: Library\Artifacts\fc\fc2b0660e528e223dd4313702891f0bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd96685c3b10cdb0e2077d4c6b0d0fb3
+    fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fd\fd96685c3b10cdb0e2077d4c6b0d0fb3
+    projectPath: Library\Artifacts\fd\fd96685c3b10cdb0e2077d4c6b0d0fb3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1064,8 +620,8 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\Artifacts\fd\fdbdf664ed1c1df073176143d8d7ccf9
     projectPath: Library\Artifacts\fd\fdbdf664ed1c1df073176143d8d7ccf9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\Filipe\Pokemon\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
@@ -1084,21 +640,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\expandedItems
-    fullPath: C:\Users\Filipe\Pokemon\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Filipe\Pokemon\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Filipe\Pokemon\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1150,27 +694,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Filipe\Pokemon\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Filipe\Pokemon\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\f0\f08d6274a7a8f69518e9cb7adf5ced90.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\MainStageHierarchy\f0\f08d6274a7a8f69518e9cb7adf5ced90.json
-    projectPath: Library\StateCache\MainStageHierarchy\f0\f08d6274a7a8f69518e9cb7adf5ced90.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\PrefabStageHierarchy\28\2837727d2d484a0fa6746ef25afca6bd.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\PrefabStageHierarchy\28\2837727d2d484a0fa6746ef25afca6bd.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\28\2837727d2d484a0fa6746ef25afca6bd.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1178,41 +704,11 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\PrefabStageHierarchy\42\423982c597a4b3fbe493d4d722dbafa2.json
     projectPath: Library\StateCache\PrefabStageHierarchy\42\423982c597a4b3fbe493d4d722dbafa2.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\92\92c660c16a6ed404a822fdcb6a8d5e56.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\PrefabStageHierarchy\92\92c660c16a6ed404a822fdcb6a8d5e56.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\92\92c660c16a6ed404a822fdcb6a8d5e56.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\PrefabStageHierarchy\cf\cf613a07c6d01f7da9eed6d9ff2995de.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\PrefabStageHierarchy\cf\cf613a07c6d01f7da9eed6d9ff2995de.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\cf\cf613a07c6d01f7da9eed6d9ff2995de.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\3c\3c5dcfe250b701388e6050d84604c420.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\SceneView\3c\3c5dcfe250b701388e6050d84604c420.json
-    projectPath: Library\StateCache\SceneView\3c\3c5dcfe250b701388e6050d84604c420.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\SceneView\53\53218883fd8ad0d1a2f03add3789b02a.json
     fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\SceneView\53\53218883fd8ad0d1a2f03add3789b02a.json
     projectPath: Library\StateCache\SceneView\53\53218883fd8ad0d1a2f03add3789b02a.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\94\94b3de92ea80085fa1d9ed3fa28ba4c2.json
-    fullPath: C:\Users\Filipe\Pokemon\Library\StateCache\SceneView\94\94b3de92ea80085fa1d9ed3fa28ba4c2.json
-    projectPath: Library\StateCache\SceneView\94\94b3de92ea80085fa1d9ed3fa28ba4c2.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    fullPath: C:\Users\Filipe\Pokemon\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1220,95 +716,101 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker1.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker10.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker10.log
     projectPath: Logs\AssetImportWorker10.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker1-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker2.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker2.log
     projectPath: Logs\AssetImportWorker2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker2-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker2-prev.log
     projectPath: Logs\AssetImportWorker2-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker3.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker3.log
     projectPath: Logs\AssetImportWorker3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker3-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker3-prev.log
     projectPath: Logs\AssetImportWorker3-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker4.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker4.log
     projectPath: Logs\AssetImportWorker4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker4-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker4-prev.log
     projectPath: Logs\AssetImportWorker4-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker5.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker5.log
     projectPath: Logs\AssetImportWorker5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker5-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker5-prev.log
     projectPath: Logs\AssetImportWorker5-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker6.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker6.log
     projectPath: Logs\AssetImportWorker6.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker6-prev.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker6-prev.log
     projectPath: Logs\AssetImportWorker6-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker7.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker7.log
     projectPath: Logs\AssetImportWorker7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker7-prev.log
+    fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker7-prev.log
+    projectPath: Logs\AssetImportWorker7-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1316,113 +818,29 @@ MonoBehaviour:
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker8.log
     projectPath: Logs\AssetImportWorker8.log
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker8-prev.log
+    fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker8-prev.log
+    projectPath: Logs\AssetImportWorker8-prev.log
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Logs\AssetImportWorker9.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\AssetImportWorker9.log
     projectPath: Logs\AssetImportWorker9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\Filipe\Pokemon\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Filipe\Pokemon\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Filipe\Pokemon\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Filipe\Pokemon\obj\Debug\Assembly-CSharp-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Filipe\Pokemon\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Filipe\Pokemon\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\Filipe\Pokemon\Temp\Assembly-CSharp.dll.hash
-    projectPath: Temp\Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\CompilationLog.txt
-    fullPath: C:\Users\Filipe\Pokemon\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 5
   - path: Temp\UnityLockfile
     fullPath: C:\Users\Filipe\Pokemon\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1cba9318e837b5e4084a660187bb916b
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-1cba9318e837b5e4084a660187bb916b
-    projectPath: Temp\UnityTempFile-1cba9318e837b5e4084a660187bb916b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-29800e7d92531a541bfd18a0e9d2478b
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-29800e7d92531a541bfd18a0e9d2478b
-    projectPath: Temp\UnityTempFile-29800e7d92531a541bfd18a0e9d2478b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-2de207d3b51185e4cb27a4b2585167c1
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-2de207d3b51185e4cb27a4b2585167c1
-    projectPath: Temp\UnityTempFile-2de207d3b51185e4cb27a4b2585167c1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-520c5f3a9147f694d87a97da7f7a1075
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-520c5f3a9147f694d87a97da7f7a1075
-    projectPath: Temp\UnityTempFile-520c5f3a9147f694d87a97da7f7a1075
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-624b57313e2959041b9d296f8766a9ef
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-624b57313e2959041b9d296f8766a9ef
-    projectPath: Temp\UnityTempFile-624b57313e2959041b9d296f8766a9ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-67c60f7f727407043bc762b3fac37c99
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-67c60f7f727407043bc762b3fac37c99
-    projectPath: Temp\UnityTempFile-67c60f7f727407043bc762b3fac37c99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6ab2375a30457c8439510416d2e6cdc8
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-6ab2375a30457c8439510416d2e6cdc8
-    projectPath: Temp\UnityTempFile-6ab2375a30457c8439510416d2e6cdc8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9a6c789f5f0d32c4c83304b103f14bdf
-    fullPath: C:\Users\Filipe\Pokemon\Temp\UnityTempFile-9a6c789f5f0d32c4c83304b103f14bdf
-    projectPath: Temp\UnityTempFile-9a6c789f5f0d32c4c83304b103f14bdf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

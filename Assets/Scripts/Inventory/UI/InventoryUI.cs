@@ -38,6 +38,8 @@ public class InventoryUI : MonoBehaviour
     public void Start()
     {
         UpdateItemList();
+
+        inventory.OnUpdated += UpdateItemList;
     }
 
     void UpdateItemList()
@@ -93,7 +95,7 @@ public class InventoryUI : MonoBehaviour
         {
             Action onSelected = () =>
             {
-
+                inventory.UseItem(selectedItem, partyScreen.selectedMember);
             };
             Action onBackPartyScreen = () =>
             {
